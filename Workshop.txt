@@ -1,0 +1,24 @@
+statisch kompiliert, 
+program ist eine Datei und kann sehr einfach ausgerollt werden
+
+WorkSpaces - konzept nochmal anschauen
+
+clonen des repos in workspace
+C:\Users\devopen\go\src>go get github.com/miku/golangintro
+
+compile - go build
+
+compile and execute
+C:\Users\devopen\go\src\github.com\miku\golangintro\hello>go run hello.go
+
+installiere alle abhängigkeiten
+go get .\...
+
+Einstieg: func main
+Visibility: Public - private
+
+Playground: https://play.golang.org/
+
+
+Spachfeatures:
+
